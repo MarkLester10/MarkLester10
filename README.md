@@ -78,15 +78,15 @@
 
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
-<a href="https://github.com/Marklester10/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=vue" alt="Mark's github stats" />
+<a href="https://github.com/MarkLester10?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
 </a>
-<a href="https://github.com/MarkLester10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=vue" />
+<a href="https://github.com/MarkLester10?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
 </a>
 
 ---
