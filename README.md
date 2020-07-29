@@ -75,8 +75,6 @@
 
 ---
 
-<img align="left" alt="Mark Lester Morta Github Stats" src="#" />
-
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 
