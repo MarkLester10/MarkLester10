@@ -79,20 +79,20 @@
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
+  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
 </a>
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
+  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
+  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
 </a>
 
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" height="400"/>
+ <img src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/7ff685c5-9902-457e-acc9-b3a31c3fb17b.svg" height="400"/>
 </p>
 
 ---
