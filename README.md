@@ -4,7 +4,7 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 I’m currently working with some smaller projects with Laravel!
+- 🔭 I’m currently working with some smaller projects with Laravel and Vue Js!
 - 🌱 I’m currently learning everything about Web Development, Web Technologies etc... 🤣
 - 👯 I’m looking to work with some clients to test and enhance my development capability
 - 🥅 2020 Goals: Contribute to Open Source Project, Learn some of the new web technology trends and build enough foundation to core languages JavaScript and PHP
