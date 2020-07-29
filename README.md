@@ -99,7 +99,7 @@
 ---
 
 ---
-📊  **Programming Languages Stats**
+📊 **Programming Languages Stats**
 
 <p align="center">
  <img src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/7ff685c5-9902-457e-acc9-b3a31c3fb17b.svg" height="400"/>
@@ -108,7 +108,7 @@
 
 ---
 
-📊 **This week I spent my time on**
+📅 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
