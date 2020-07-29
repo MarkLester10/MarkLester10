@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with some smaller projects with Laravel and Vue Js!
 - 🌱 I’m currently learning Laravel and JavaScript (Vue Js) and almost everything about Web Development and Technologies 🤣
 - 👯 I’m looking to work with some clients to test and enhance my development capability
-- 🥅 2020 Goals: Contribute to Open Source Project, Learn some of the new web technology trends and continue to build strong knowledge foundation to core languages JavaScript and PHP
+- 🥅 2020 Goals: Contribute to Open Source Project, learn some of the new web technology trends and continue to build strong knowledge foundation to the core languages, JavaScript and PHP
 - ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features and play guitar.
 
 ### Connect with me:
