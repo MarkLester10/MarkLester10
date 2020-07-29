@@ -102,7 +102,7 @@
 📊 **Programming Languages Stats**
 
 <p align="center">
- <img src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/7ff685c5-9902-457e-acc9-b3a31c3fb17b.svg" height="400"/>
+ <img src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/62ce351b-d449-44cd-8bda-17c27c0bbcd9.svg" height="400"/>
 </p>
 ---
 
