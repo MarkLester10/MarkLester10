@@ -48,6 +48,22 @@
 
 ---
 
+📊 **This week I spent my time on**
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   6 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   42.52 %
+JavaScript   3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+JSON         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> <h3>Latest Vue Js Projects</h3>
 
 <!-- VUEJS-PROJECT-LIST:START -->
@@ -74,20 +90,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-📊 **This week I spent my time on**
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   6 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   42.52 %
-JavaScript   3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-JSON         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-```
-
-<!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkLester10)](https://github.com/anuraghazra/github-readme-stats)
 
