@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with some smaller projects with Laravel and Vue Js!
 - 🌱 I’m currently learning everything about Web Development, Web Technologies etc... 🤣
 - 👯 I’m looking to work with some clients to test and enhance my development capability
-- 🥅 2020 Goals: Contribute to Open Source Project, Learn some of the new web technology trends and build enough foundation to core languages JavaScript and PHP
+- 🥅 2020 Goals: Contribute to Open Source Project, Learn some of the new web technology trends and continue to build strong knowledge foundation to core languages JavaScript and PHP
 - ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features and play guitar.
 
 ### Connect with me:
@@ -75,7 +75,7 @@
 
 ---
 
-<img align="left" alt="Mark Lester Morta Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Mark Lester Morta Github Stats" src="#" />
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
