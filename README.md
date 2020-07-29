@@ -82,7 +82,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkLester10&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkLester10&theme=vue&show_icons=true)
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 
