@@ -79,14 +79,14 @@
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
 </a>
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
 </a>
 
 ---
