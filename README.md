@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=https://github.com/MarkLester10/TypeIT/TypeIT&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=vue" />
 </a>
 
 ---
