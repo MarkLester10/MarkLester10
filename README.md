@@ -90,6 +90,10 @@
 </a>
 
 ---
+<figure><embed src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/7ff685c5-9902-457e-acc9-b3a31c3fb17b.svg"></embed></figure>
+---
+
+---
 
 📊 **This week I spent my time on**
 
