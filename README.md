@@ -78,7 +78,7 @@
 
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
-\*NOTE: Top languages is a github metric of which languages i have the most code on github and does not indicate my skill level.
+_NOTE: Top languages does not indicate my skill level, it is a github metric of which languages I have the most code on my repositories or in github in general._
 
 <a href="https://github.com/MarkLester10?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
