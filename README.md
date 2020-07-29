@@ -82,7 +82,15 @@
 
 ---
 
+<!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarkLester10&theme=vue&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
+</a>
+
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 
