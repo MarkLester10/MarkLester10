@@ -78,11 +78,14 @@
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
 <a href="https://github.com/Marklester10/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=vue" alt="Mark's github stats" />
 </a>
 <a href="https://github.com/MarkLester10">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=vue" />
+</a>
+
+<a href="https://marklester10.github.io/TypeIT/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=marklester10.github.io&theme=vue" />
 </a>
 
 ---
