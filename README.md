@@ -90,7 +90,13 @@
 </a>
 
 ---
-<figure><embed src="https://wakatime.com/share/@00d7f70c-549f-42dd-9b8e-a7f4ecc15731/7ff685c5-9902-457e-acc9-b3a31c3fb17b.svg"></embed></figure>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" height="400"/>
+</p>
+
+---
+
 ---
 
 📊 **This week I spent my time on**
@@ -99,9 +105,6 @@
 <!--END_SECTION:waka-->
 
 ---
-
-<!-- [website]: https://codeSTACKr.com -->
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 
 [twitter]: https://twitter.com/pyoooooooooong
 [instagram]: https://www.instagram.com/pyongits/
