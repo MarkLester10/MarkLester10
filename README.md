@@ -49,7 +49,7 @@
 
 ---
 
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> <h3>Latest Vue Js Projects</h3>
+### Latest Vue Js Projects<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <!-- VUEJS-PROJECT-LIST:START -->
 
@@ -58,7 +58,7 @@
 
 ---
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> <h3>Latest Laravel Projects</h3>
+### Latest Laravel Projects<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <!-- LARAVEL-PROJECT-LIST:START -->
 
