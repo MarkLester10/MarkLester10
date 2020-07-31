@@ -119,6 +119,16 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
 
 ---
 
+---
+
+### Best UI Resources for front-end developers
+
+<a href="https://github.com/bradtraversy/design-resources-for-developers#html--css-templates">
+  <img align="center" src="https://www.teachsecondary.com/images/uploads/6-digital-resources.jpg" />
+</a>
+
+---
+
 [twitter]: https://twitter.com/pyoooooooooong
 [instagram]: https://www.instagram.com/pyongits/
 [linkedin]: https://www.linkedin.com/in/marklestermorta
