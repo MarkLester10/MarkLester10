@@ -4,13 +4,13 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 I’m currently working with some smaller projects with Laravel and Vue Js!
-- 🌱 I’m currently learning core PHP and vanilla JavaScript and almost everything about Web Development and Technologies 🤣
+- 🔭 I’m currently working with some smaller JavaScript projects.
+- 🌱 I’m currently learning the vanilla JavaScript, core PHP and almost everything about Web Development and Technologies 🤣
 - 👯 I’m looking to work with some clients to test and enhance my development capability
 - 🥅 2020 Goals:
-  - Contribute to Open Source Project.
-  - learn some of the new web technology trends and continue to build strong knowledge foundation to the core languages, JavaScript and PHP.
-  - Learn some of the best web framework and I personally love Laravel and Vue Js.
+  - Continue to build strong knowledge foundation to the core languages, JavaScript and PHP (OOP).
+  - Be brought up to date to new web technology trends.
+  - Learn some of the best web framework and I personally choose Laravel and Vue Js.
 - ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features and play guitar.
 
 ### Connect with me:
