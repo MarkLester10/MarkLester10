@@ -120,8 +120,7 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 4 mins    ███████████████████████▒░   92.67 % 
-HTML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
