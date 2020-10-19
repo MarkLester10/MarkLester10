@@ -124,9 +124,7 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
 
 <!--START_SECTION:waka-->
 ```text
-Dart   2 hrs 40 mins   ████████████████████████░   96.45 % 
-HTML   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-CSS    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Dart     2 hrs 40 mins   ████████████████████████▓   99.02 % 
 ```
 <!--END_SECTION:waka-->
 
