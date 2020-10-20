@@ -97,6 +97,9 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
 <a href="https://github.com/MarkLester10/JavaScript-Sandbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=JavaScript-Sandbox&theme=radical" />
 </a>
+<a href="https://github.com/MarkLester10/React-Sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
+</a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
