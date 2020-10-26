@@ -7,7 +7,7 @@
 - 🔭 Right now I'm building a minimal MVC framework in php that kinda mimic the Laravel 🤣
 - 🌱 I’m continuously learning the advance features of php/Laravel and integrating either Vue Js or React Js with it to create a Full-Stack Dev Environment.
       And the rest is almost everything about Web Development and Technologies 🤣
-- 🎯 As a student, I'm very focus right now in developing my career even I just started a year ago. I'm a proactive in terms of career, I'm very driven and motivated about it.
+- 🎯 As a student, I'm very focus right now in developing my career. I'm a proactive in terms of career and very driven and motivated about it.
 - 👯 I’m looking to work with some clients to test and enhance my development capability
 - 🥅 2020 Goals:
   - Continue to build strong knowledge foundation to the core languages, JavaScript and PHP (OOP).
