@@ -112,7 +112,7 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
 <a href="https://marklester10.github.io/Github-Finder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Github-Finder&theme=radical" />
 </a>
-<a href="https://github.com/MarkLester10/My-Website-v1.0">
+<a href="https://marklester.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=My-Website-v1.0&theme=radical" />
 </a>
 
