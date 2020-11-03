@@ -7,7 +7,7 @@
 - 🔭 Right now I'm studying React js (morning session) and Laravel (afternoon session) every weekdays. And every weekend I have this upskill program which focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD)
 - 🌱 I’m continuously learning the advance features of php/Laravel and integrating either Vue Js or React Js with it to create a Full-Stack Dev Environment.
       And the rest is almost everything about Web Development and Technologies 🤣
-- 🎯 As a student, I'm very focus right now in developing my career. I'm a proactive in terms of career and very driven and motivated about it.
+- 🎯 As a student, I'm very focus right now on developing my career. I'm a proactive, career driven and motivated person.
 - 👯 I’m looking to work with some clients to test and enhance my development capability
 - 🥅 2020 Goals:
   - Continue to build strong knowledge foundation to the core languages, JavaScript and PHP (OOP).
