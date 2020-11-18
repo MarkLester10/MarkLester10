@@ -72,9 +72,7 @@
 <a href="https://moooviedb.herokuapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Movie-App&theme=radical" />
 </a>
-<a href="http://laravelposty.herokuapp.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=posty&theme=radical" />
-</a>
+
 
 
 <!-- LARAVEL-PROJECT-LIST:END -->
