@@ -60,7 +60,10 @@
 
 <!-- VUEJS-PROJECT-LIST:START -->
 
-- Coming Soon ...
+<a href="https://pokemonleague.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Pokemon-League&theme=radical" />
+</a>
+
 <!-- VUEJS-PROJECT-LIST:END -->
 
 ---
