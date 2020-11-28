@@ -78,6 +78,10 @@
 <a href="http://laravelposty.herokuapp.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=posty&theme=radical" />
 </a>
+<br /><br />
+<a href="https://github.com/MarkLester10/LaraVue-Socialite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=LaraVue-Socialite&theme=radical" />
+</a>
 
 <!-- LARAVEL-PROJECT-LIST:END -->
 
