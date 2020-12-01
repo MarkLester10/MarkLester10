@@ -87,12 +87,35 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Web Designs
 
-<!-- BLOG-POST-LIST:START -->
-
-- Coming Soon ...
-<!-- BLOG-POST-LIST:END -->
+<a href="https://marklester10.github.io/TypeIT/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
+</a>
+<a href="https://marklester10.github.io/Weather-App-Vanilla-JavaScript/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Weather-App-Vanilla-JavaScript&theme=radical" />
+</a>
+<br /><br />
+<a href="https://marklesterdarkuidesign.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Login-and-Register-Dark-UI-Design&theme=radical" />
+</a>
+<a href="https://marklestergamebox.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Game-Box&theme=radical" />
+</a>
+<br /><br />
+<a href="https://marklester10.github.io/Github-Finder/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Github-Finder&theme=radical" />
+</a>
+<a href="https://marklester10.github.io/Leica-Minimal-Landing-Page/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Leica-Minimal-Landing-Page&theme=radical" />
+</a>
+<br /><br />
+<a href="https://marklester10.github.io/Simple-Landing-page-with-text-slider/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Simple-Landing-page-with-text-slider&theme=radical" />
+</a>
+<a href="https://marklester10.github.io/Masonry-Lightbox/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Masonry-Lightbox&theme=radical" />
+</a>
 
 ---
 
@@ -114,23 +137,6 @@ _NOTE: Top languages does not indicate my skill level, it is a github metric of 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
 </a>
 <br /><br />
-<a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
-</a>
-<a href="https://marklester10.github.io/Weather-App-Vanilla-JavaScript/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Weather-App-Vanilla-JavaScript&theme=radical" />
-</a>
-<br /><br />
-<a href="https://marklesterdarkuidesign.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Login-and-Register-Dark-UI-Design&theme=radical" />
-</a>
-<a href="https://marklestergamebox.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Game-Box&theme=radical" />
-</a>
-<br /><br />
-<a href="https://marklester10.github.io/Github-Finder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Github-Finder&theme=radical" />
-</a>
 <a href="https://github.com/MarkLester10/phpmvc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
 </a>
