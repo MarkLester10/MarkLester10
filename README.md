@@ -57,7 +57,7 @@
 
 ---
 
-### Latest Vue Js Projects<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+### Vue Js Projects<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <!-- VUEJS-PROJECT-LIST:START -->
 
@@ -69,7 +69,7 @@
 
 ---
 
-### Latest React Js Projects<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+### React Js Projects<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <!-- REACTJS-PROJECT-LIST:START -->
 
@@ -79,7 +79,7 @@
 
 ---
 
-### Latest Laravel Projects<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+### Laravel Projects<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <!-- LARAVEL-PROJECT-LIST:START -->
 
@@ -98,7 +98,7 @@
 
 ---
 
-### 📕 Web Designs and Vanilla JavaScript Projects
+### 😁 Web Designs and Vanilla JavaScript Projects<img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <a href="https://marklester10.github.io/TypeIT/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
