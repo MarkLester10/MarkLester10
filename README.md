@@ -4,21 +4,21 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 Right now I'm studying Vue js and Tailwind Css (morning session) and working with my current Laravel project (afternoon session) every weekdays. And every weekend I have this upskill program which focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. And if you're thinking... YES I do have time to rest, VERY IMPORTANT!🤗.
-- 🌱 I’m continuosly explore Laravel and integrate either Vue Js or React Js, to know what best suited to my Tech Stack and what makes me more efficient and productive. 
+- 🔭 Right now I'm studying Vue js and Tailwind CSS (morning session) and working with my current Laravel project (afternoon session) every weekday. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. And if you're thinking... YES, I do have time to rest, VERY IMPORTANT!🤗.
+- 🌱 I’m continuously exploring Laravel and integrate either Vue Js or React Js, to know what is best suited to my Tech Stack and what makes me more efficient and productive. 
 - I also enjoyed working with Livewire a tightly coupled framework to Laravel. I find myself more productive with this the same as with Vue Js. It is nice to have more options right 🤣.
-- And I loved to read 📖 blogs, tips and tricks from Medium 💓 before I do my work.
-- 🎯 As a student, I'm very focus right now on developing my career. I'm a proactive, career driven and motivated person.
+- And I loved to read 📖 blogs, tips, and tricks from Medium 💓 before I do my work.
+- 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
 - 👯 I’m looking to work with some clients to test and enhance my development capability
 - 🥅 2020 Goals:
   - Avoid burnouts, find rest 🤣.
   - Always be passionate.
-  - Be brought up to date to new web technology trends.
+  - Be brought up to date on new web technology trends.
   - Work smarter 🌱 not harder 💪
   - Continue to gain experience and mastery to my Tech Stack.
-- ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features and play guitar. and I loved the articles and blogs from Medium website, it makes me smarter 😆
-- 👁️ I'm looking forward to learn cross-platform app development, more specifically Dart and Flutter.
-     I'm also planning to migrate in Full-Stack JavaScript Dev Environment like MERN Stack.
+- ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features, and play guitar. and I loved the articles and blogs from the Medium website, it makes me smarter 😆
+- 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
+     I'm also planning to migrate to Full-Stack JavaScript Dev Environment like MERN Stack.
 
 ### Connect with me:
 
@@ -97,7 +97,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=LaraVue-Socialite&theme=radical" />
 </a>
 
-<!-- LARAVEL-PROJECT-LIST:END -->
+<!-- LARAVEL-PROJECT-LIST: END -->
 
 ---
 
@@ -135,7 +135,7 @@
 
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
-_NOTE: Top languages does not indicate my skill level, it is a github metric of which languages I have the most code on my repositories or in github in general._
+_NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
 <a href="https://github.com/MarkLester10?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
