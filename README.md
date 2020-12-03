@@ -96,6 +96,9 @@
 <a href="https://github.com/MarkLester10/LaraVue-Socialite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=LaraVue-Socialite&theme=radical" />
 </a>
+<a href="https://github.com/MarkLester10/Blog-Site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
+</a>
 
 <!-- LARAVEL-PROJECT-LIST: END -->
 
