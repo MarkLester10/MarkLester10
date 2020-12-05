@@ -76,7 +76,9 @@
 
 <!-- REACTJS-PROJECT-LIST:START -->
 
---Coming Soon . . .
+<a href="https://statisticscovid19.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Covid19-Stats&theme=radical" />
+</a>
 
 <!-- REACTJS-PROJECT-LIST:END -->
 
