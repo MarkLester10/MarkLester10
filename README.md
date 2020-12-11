@@ -7,7 +7,7 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 Right now I'm studying Vue js and Tailwind CSS (morning session) and working with my current Laravel project (afternoon session) every weekday. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. And if you're thinking... YES, I do have time to rest, VERY IMPORTANT!🤗.
+- 🔭 Right now I'm studying Vue js and Tailwind CSS (morning session) and working with my current Laravel project (afternoon session) every weekdays. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. And if you're thinking... YES, I do have time to rest, VERY IMPORTANT!🤗.
 - 🌱 I’m continuously exploring Laravel and integrate either Vue Js or React Js, to know what is best suited to my Tech Stack and what makes me more efficient and productive. 
 - I also enjoyed working with Livewire a tightly coupled framework to Laravel. I find myself more productive with this the same as with Vue Js. It is nice to have more options right 🤣.
 - And I loved to read 📖 blogs, tips, and tricks from Medium 💓 before I do my work.
