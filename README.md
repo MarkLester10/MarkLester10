@@ -69,6 +69,9 @@
 <a href="https://pokemonleague.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Pokemon-League&theme=radical" />
 </a>
+<a href="https://marktechtips.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Tech-Tips&theme=radical" />
+</a>
 
 <!-- VUEJS-PROJECT-LIST:END -->
 
