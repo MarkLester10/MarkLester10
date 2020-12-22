@@ -103,6 +103,9 @@
 <a href="https://github.com/MarkLester10/TechTips">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TechTips&theme=radical" />
 </a>
+<a href="https://github.com/MarkLester10/Laravel-JetStream-User-CRUD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-JetStream-User-CRUD&theme=radical" />
+</a>
 <br/><br/>
 <a href="https://moooviedb.herokuapp.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Movie-App&theme=radical" />
@@ -118,9 +121,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
 </a>
 <br /><br />
-<a href="https://github.com/MarkLester10/Laravel-JetStream-User-CRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-JetStream-User-CRUD&theme=radical" />
-</a>
 
 <!-- LARAVEL-PROJECT-LIST: END -->
 
