@@ -8,7 +8,7 @@
 ## I'm a Student and Aspiring Full-Stack Developer!
 
 - 🔭 Right now I'm working with a Laravel and Vue Js + Inertia project that I do every weekdays. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. 
-- 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself with these Tech Stack. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
+- 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
 - And I loved to read 📖 blogs, tips, and tricks from Medium 💓 before I do my work.
 - 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
 - 👯 I’m looking to work with some clients to test and enhance my development capability
