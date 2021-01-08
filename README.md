@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-marklester10.mlsm@gmail.com-red)](mailto:marklester10.mlsm@gmail.com) [![](https://img.shields.io/badge/Linkedin-Mark%20Lester%20Morta-blue)](https://www.linkedin.com/in/marklestermorta)
  <img src="https://komarev.com/ghpvc/?username=your-github-MarkLester10&style=flat-square" alt="Mark Lester Morta" /> 
 
-[![](https://img.shields.io/badge/Website-Mark%20Lester%20Morta-green)](https://marklestermorta.netlify.app)
+[<img align="left" alt="Mark Lester | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][website]
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
