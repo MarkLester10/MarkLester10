@@ -7,18 +7,19 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 Right now I'm working with a Laravel and Vue Js + Inertia project that I do every weekdays. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. And if you're thinking... YES, I do have time to rest, VERY IMPORTANT!🤗.
-- 🌱 I keep learning Laravel & Vue Js and keep exploring both of them because they are my chosen Tech Stack. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
+- 🔭 Right now I'm working with a Laravel and Vue Js + Inertia project that I do every weekdays. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. 
+- 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself with these Tech Stack. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
 - And I loved to read 📖 blogs, tips, and tricks from Medium 💓 before I do my work.
 - 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
 - 👯 I’m looking to work with some clients to test and enhance my development capability
-- 🥅 2020 Goals:
+- 🥅 2021 Goals:
+  - Explore MERN Stack.
   - Avoid burnouts, find rest 🤣.
   - Always be passionate.
   - Be brought up to date on new web technology trends.
   - Work smarter 🌱 not harder 💪
   - Continue to gain experience and mastery to my Tech Stack.
-- ⚡ Fun fact: I love to watch architectural designs, computer builds, new mobile phone trends and features, and play guitar. and I loved the articles and blogs from the Medium website, it makes me smarter 😆
+- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs from the Medium website, it makes me smarter 😆
 - 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
      I'm also planning to migrate to Full-Stack JavaScript Dev Environment like MERN Stack.
 
