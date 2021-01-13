@@ -131,11 +131,11 @@
 ---
 
 ### 😁 Web Designs and <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Vanilla JavaScript Projects
-<a href="https://mkbhdautofocus.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=MKBHD-Auto-Focus-Site-Landing-Page&theme=radical" />
-</a>
 <a href="https://nbaallstar.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=NBA-All-Star-Landing-Page&theme=radical" />
+</a>
+<a href="https://mkbhdautofocus.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=MKBHD-Auto-Focus-Site-Landing-Page&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
