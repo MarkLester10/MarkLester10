@@ -217,11 +217,11 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 
 <!--START_SECTION:waka-->
 ```text
-PHP          4 hrs 46 mins   ██████████████████▒░░░░░░   73.69 % 
-HTML         1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
-SCSS         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+HTML         5 hrs 4 mins    ████████████░░░░░░░░░░░░░   48.28 % 
+SCSS         2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+PHP          2 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
 
