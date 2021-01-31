@@ -1,5 +1,5 @@
 [<img src="https://i.imgur.com/qoGLj9v.jpg">](https://marklestermorta.netlify.app/)
-### Hi there, I'm Mark Lester Morta - aka Pyong 👋
+### Hi there 👋
 
 [![](https://img.shields.io/badge/Gmail-marklester10.mlsm@gmail.com-red)](mailto:marklester10.mlsm@gmail.com) [![](https://img.shields.io/badge/Linkedin-Mark%20Lester%20Morta-blue)](https://www.linkedin.com/in/marklestermorta)
  <img src="https://komarev.com/ghpvc/?username=your-github-MarkLester10&style=flat-square" alt="Mark Lester Morta" /> 
@@ -10,17 +10,16 @@
 
 - 🔭 Right now I'm working with a Laravel and Vue Js + Inertia project that I do every weekdays. And every weekend I have this upskill program that focused on improving my front-end skills. (HTML,CSS,JS and Adobe XD) and sometimes algorithms and data structures. 
 - 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
-- And I loved to read 📖 blogs, tips, and tricks from Medium 💓 before I do my work.
 - 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
-- 👯 I’m looking to work with some clients to test and enhance my development capability
+- 👯 I've worked with some clients helping them to solve their business problems, and right now I'm looking for an internship to gain industry-level experience.
 - 🥅 2021 Goals:
-  - Explore MERN Stack.
+  - Learn MERN Stack.
   - Avoid burnouts, find rest 🤣.
   - Always be passionate.
   - Be brought up to date on new web technology trends.
   - Work smarter 🌱 not harder 💪
   - Continue to gain experience and mastery to my Tech Stack.
-- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs from the Medium website, it makes me smarter 😆
+- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs from the Medium website 📖💓
 - 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
      I'm also planning to migrate to Full-Stack JavaScript Dev Environment like MERN Stack.
 
