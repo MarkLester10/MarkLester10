@@ -1,3 +1,4 @@
+[<img src="https://i.imgur.com/gtHOc3T.png">](https://youtube.com/c/javascriptmastery)
 ### Hi there, I'm Mark Lester Morta - aka Pyong 👋
 
 [![](https://img.shields.io/badge/Gmail-marklester10.mlsm@gmail.com-red)](mailto:marklester10.mlsm@gmail.com) [![](https://img.shields.io/badge/Linkedin-Mark%20Lester%20Morta-blue)](https://www.linkedin.com/in/marklestermorta)
