@@ -80,6 +80,10 @@
 <a href="https://marktechtips.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Tech-Tips&theme=radical" />
 </a>
+<br /><br />
+<a href="https://github.com/MarkLester10/Vue-ToDo-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Vue-ToDo-App&theme=radical" />
+</a>
 
 <!-- VUEJS-PROJECT-LIST:END -->
 
@@ -103,11 +107,14 @@
 
 ---
 
-### Laravel Projects<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+### PHP/Laravel Projects<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <!-- LARAVEL-PROJECT-LIST:START -->
 <a href="https://github.com/MarkLester10/phpmvc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
+</a>
+<a href="https://github.com/MarkLester10/php-mvc-core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=php-mvc-core&theme=radical" />
 </a>
 <br/><br/>
 <a href="https://github.com/MarkLester10/TechTips">
