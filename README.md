@@ -88,7 +88,10 @@
 ### React Js Projects<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <!-- REACTJS-PROJECT-LIST:START -->
-
+<a href="https://github.com/MarkLester10/React-Sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
+</a>
+<br /><br />
 <a href="https://statisticscovid19.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Covid19-Stats&theme=radical" />
 </a>
@@ -103,7 +106,10 @@
 ### Laravel Projects<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <!-- LARAVEL-PROJECT-LIST:START -->
-
+<a href="https://github.com/MarkLester10/phpmvc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
+</a>
+<br/><br/>
 <a href="https://github.com/MarkLester10/TechTips">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TechTips&theme=radical" />
 </a>
@@ -124,13 +130,16 @@
 <a href="https://github.com/MarkLester10/Blog-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
 </a>
-<br /><br />
 
 <!-- LARAVEL-PROJECT-LIST: END -->
 
 ---
 
 ### 😁 Web Designs and <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Vanilla JavaScript Projects
+<a href="https://github.com/MarkLester10/JavaScript-Sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=JavaScript-Sandbox&theme=radical" />
+</a>
+<br /><br />
 <a href="https://mkbhdautofocus.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=MKBHD-Auto-Focus-Site-Landing-Page&theme=radical" />
 </a>
@@ -159,9 +168,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Leica-Minimal-Landing-Page&theme=radical" />
 </a>
 <br /><br />
-<a href="https://marklester10.github.io/Simple-Landing-page-with-text-slider/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Simple-Landing-page-with-text-slider&theme=radical" />
-</a>
 <a href="https://marklester10.github.io/Masonry-Lightbox/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Masonry-Lightbox&theme=radical" />
 </a>
@@ -178,18 +184,6 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 <a href="https://github.com/MarkLester10?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
 </a>
-<br /><br />
-<a href="https://github.com/MarkLester10/JavaScript-Sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=JavaScript-Sandbox&theme=radical" />
-</a>
-<a href="https://github.com/MarkLester10/React-Sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
-</a>
-<br /><br />
-<a href="https://github.com/MarkLester10/phpmvc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
-</a>
-
 
 ---
 
