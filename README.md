@@ -245,7 +245,7 @@ SCSS         4 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-[website]: https://marklestermorta.netlify.app
+[website]: https://marklestermorta.me
 [twitter]: https://twitter.com/pyoooooooooong
 [instagram]: https://www.instagram.com/pyongits/
 [linkedin]: https://www.linkedin.com/in/marklestermorta
