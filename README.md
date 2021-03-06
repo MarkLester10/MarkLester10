@@ -115,6 +115,9 @@
 <a href="https://barefootblog.000webhostapp.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Barefoot&theme=radical" />
 </a>
+<a href="https://github.com/MarkLester10/PUP-Event-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=UP-Event-Management-System&theme=radical" />
+</a>
 <br/><br/>
 <!-- LARAVEL-PROJECT-LIST:START -->
 <a href="https://github.com/MarkLester10/phpmvc">
@@ -143,6 +146,10 @@
 </a>
 <a href="https://github.com/MarkLester10/Blog-Site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
+</a>
+<br /><br />
+<a href="https://github.com/MarkLester10/Laravel-Instagram-Like-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-Instagram-Like-App&theme=radical" />
 </a>
 
 <!-- LARAVEL-PROJECT-LIST: END -->
