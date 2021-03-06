@@ -116,7 +116,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Barefoot&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/PUP-Event-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=UP-Event-Management-System&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=PUP-Event-Management-System&theme=radical" />
 </a>
 <br/><br/>
 <!-- LARAVEL-PROJECT-LIST:START -->
