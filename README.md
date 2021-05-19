@@ -236,11 +236,11 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 
 <!--START_SECTION:waka-->
 ```text
-Blade Template   6 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   39.93 % 
-PHP              5 hrs 47 mins   ████████▒░░░░░░░░░░░░░░░░   33.68 % 
-HTML             1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JavaScript       1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Blade Template   5 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   36.93 % 
+PHP              4 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.97 % 
+HTML             1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+JavaScript       1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
 
