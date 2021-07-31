@@ -8,19 +8,18 @@
 
 ## I'm a Student and Aspiring Full-Stack Developer!
 
-- 🔭 Right I'm working with an E-commerce/Reservation Website for small business.
+- 🔭 Right I'm working with an E-commerce/Reservation Website for small business and at the same time I'm also working on a multi-vendor e-commerce project.
 - 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
 - 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
-- 👯 I've worked with some clients helping them to solve their business problems, and right now I'm looking for an internship to gain industry-level experience.
+- 👯 I have experience in working with experienced IT professionals for a multi-vendor e-commerce project.
 - 🥅 2021 Goals:
-  - Learn MERN Stack.
-  - Avoid burnouts, find rest 🤣.
+  - Explore other Stack.
+  - Find rest 🤣.
   - Always be passionate.
   - Be brought up to date on new web technology trends.
   - Continue to gain experience and mastery to my Tech Stack.
 - ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs from the Medium website 📖💓
 - 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
-     I'm also planning to migrate to Full-Stack JavaScript Dev Environment like MERN Stack in the Future.
 
 ### Connect with me:
 
