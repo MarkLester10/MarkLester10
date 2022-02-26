@@ -6,11 +6,10 @@
 
 [Mark Lester | Website][website]
 
-## I'm a Student and Aspiring Full-Stack Developer!
+## I'm a freelance Full-Stack Web Developer!
 
-- 🔭 Right I'm working with an E-commerce/Reservation Website for small business and at the same time I'm also working on a multi-vendor e-commerce project.
-- 🌱 I keep learning Laravel, Vue Js, and React and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
-- 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
+- 🌱 I used Laravel, Vue Js, Tailwind CSS & bootsrap as my tech stack and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
+- 🎯 As a graduating student, I'm very focused on developing my career. Right now, I'm looking for internship ❤️
 - 👯 I have experience in working with experienced IT professionals for a multi-vendor e-commerce project.
 - 🥅 2021 Goals:
   - Explore other Stack.
@@ -18,7 +17,7 @@
   - Always be passionate.
   - Be brought up to date on new web technology trends.
   - Continue to gain experience and mastery to my Tech Stack.
-- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs from the Medium website 📖💓
+- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs 📖💓
 - 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
 
 ### Connect with me:
@@ -256,7 +255,7 @@ Blade Template   12 mins         █████████▓░░░░░�
 
 ---
 
-[website]: https://marklestermorta.me
+[website]: https://marklestermorta.netlify.app
 [twitter]: https://twitter.com/pyoooooooooong
 [instagram]: https://www.instagram.com/pyongits/
 [linkedin]: https://www.linkedin.com/in/marklestermorta
