@@ -6,19 +6,13 @@
 
 [Mark Lester | Website][website]
 
-## I'm a freelance Full-Stack Web Developer!
+## Full-Stack Web Developer!
 
-- 🌱 I used Laravel, Vue Js, Tailwind CSS & bootsrap as my tech stack and keep exploring them because I find myself using these Tech Stack in the future. I enjoyed working with these web technologies because I feel like more productive and efficient. I also enjoyed working with Livewire because of its fast integration and for quick UI interactivity without leaving the backend.
-- 🎯 As a graduating student, I'm very focused on developing my career. Right now, I'm looking for internship ❤️
-- 👯 I have experience in working with experienced IT professionals for a multi-vendor e-commerce project.
-- 🥅 2021 Goals:
-  - Explore other Stack.
-  - Find rest 🤣.
-  - Always be passionate.
-  - Be brought up to date on new web technology trends.
-  - Continue to gain experience and mastery to my Tech Stack.
+- 🌱 My tech stack included Laravel, Vue Js, Tailwind CSS, and bootsrap. I enjoyed working with these web technologies because they made me feel more productive and efficient. I also liked working with Livewire because of its quick integration and quick UI interactivity without leaving the backend.
+- 🎯 My long-term goal as a full-stack developer is to advance to the senior level.
+- 👯 I've worked with experienced IT professionals on a variety of projects, including CMS, e-commerce, and so on.
 - ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs 📖💓
-- 👁️ I'm looking forward to learning cross-platform app development, more specifically Dart and Flutter.
+- 👁️ I'm excited to learn cross-platform app development, specifically Dart and Flutter.
 
 ### Connect with me:
 
