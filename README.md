@@ -233,8 +233,8 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 <!--START_SECTION:waka-->
 
 ```text
-PHP      12 mins         █████████████▓░░░░░░░░░░░   54.56 %
-Vue.js   10 mins         ███████████▒░░░░░░░░░░░░░   45.44 %
+Vue.js   10 mins         ████████████████████████▒   97.19 %
+PHP      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
