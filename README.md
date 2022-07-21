@@ -66,6 +66,20 @@
 
 ---
 
+### Packages<img align="left" alt="javascript" width="30px" src="https://cdn-icons-png.flaticon.com/512/1067/1067555.png" />
+
+<!-- PACKAGES-LIST:START -->
+
+<a href="https://github.com/MarkLester10/buka-sms-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=buka-sms-api&theme=radical" />
+</a>
+<a href="https://github.com/MarkLester10/Semaphore-API-Laravel-Wrapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Semaphore-API-Laravel-Wrapper&theme=radical" />
+</a>
+<!-- PACKAGES-LIST:END -->
+
+---
+
 ### Vue Js Projects<img align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <!-- VUEJS-PROJECT-LIST:START -->
