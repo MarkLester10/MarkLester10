@@ -247,10 +247,12 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   25 hrs 36 mins  ███████████████▒░░░░░░░░░   61.71 %
-PHP          13 hrs 3 mins   ████████░░░░░░░░░░░░░░░░░   31.48 %
-GraphQL      1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Other        45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript   27 hrs 10 mins  ███████████████▒░░░░░░░░░   61.85 %
+PHP          14 hrs 57 mins  ████████▓░░░░░░░░░░░░░░░░   34.03 %
+Vue.js       35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
