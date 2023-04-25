@@ -8,11 +8,9 @@
 
 ## Full-Stack Web Developer!
 
-- 🌱 My tech stack included Laravel, Vue Js, Tailwind CSS, and bootsrap. I enjoyed working with these web technologies because they made me feel more productive and efficient. I also liked working with Livewire because of its quick integration and quick UI interactivity without leaving the backend.
-- 🎯 My long-term goal as a full-stack developer is to advance to the senior level.
-- 👯 I've worked with experienced IT professionals on a variety of projects, including CMS, e-commerce, and so on.
-- ⚡ Fun fact: I love to watch architectural designs, computer builds, smarphones and laptop reviews, and play guitar. and I also loved reading Dev Blogs 📖💓
-- 👁️ I'm excited to learn cross-platform app development, specifically Dart and Flutter.
+- 🌱 Hello, I'm an experienced software engineer with a demonstrated history of working in the freelance and IT industry. I created small to medium web applications for academic, personal, and professional purposes.
+- 🎯 My long-term goal as a full-stack developer is to advance to the senior level. Currently focused on web development (Laravel, Tailwind CSS, Vue Js) and Mobile Development using React Native
+- ⚡ I enjoy the challenge of software development as well as seeing the results of my efforts. I'm eager to learn new technologies to broaden my knowledge.
 
 ### Connect with me:
 
