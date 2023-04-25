@@ -88,7 +88,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Pokemon-League&theme=radical" />
 </a>
 <a href="https://marktechtips.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Tech-Tips&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Tech-Tips&theme=radical" />
 </a>
 <br /><br />
 <a href="https://github.com/MarkLester10/Vue-ToDo-App">
