@@ -71,7 +71,7 @@
 <!-- PACKAGES-LIST:START -->
 
 <a href="https://github.com/MarkLester10/buka-sms-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=buka-sms-api&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=buka-sms-api&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/Semaphore-API-Laravel-Wrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Semaphore-API-Laravel-Wrapper&theme=radical" />
