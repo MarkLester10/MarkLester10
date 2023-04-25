@@ -8,7 +8,7 @@
 
 ## Full-Stack Web Developer!
 
-- 🌱 Hello, I'm an experienced software engineer with a demonstrated history of working in the freelance and IT industry. I created small to medium web applications for academic, personal, and professional purposes.
+- 🌱 Hello, I'm an experienced software engineer with a demonstrated history of working in the freelance and IT industry. I created small to medium web applications for personal and professional purposes.
 - 🎯 My long-term goal as a full-stack developer is to advance to the senior level. Currently focused on web development (Laravel, Tailwind CSS, Vue Js) and Mobile Development using React Native
 - ⚡ I enjoy the challenge of software development as well as seeing the results of my efforts. I'm eager to learn new technologies to broaden my knowledge.
 
