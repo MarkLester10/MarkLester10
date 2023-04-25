@@ -74,7 +74,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=buka-sms-api&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/Semaphore-API-Laravel-Wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Semaphore-API-Laravel-Wrapper&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Semaphore-API-Laravel-Wrapper&theme=radical" />
 </a>
 <!-- PACKAGES-LIST:END -->
 
@@ -85,14 +85,14 @@
 <!-- VUEJS-PROJECT-LIST:START -->
 
 <a href="https://pokemonleague.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Pokemon-League&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Pokemon-League&theme=radical" />
 </a>
 <a href="https://marktechtips.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Tech-Tips&theme=radical" />
 </a>
 <br /><br />
 <a href="https://github.com/MarkLester10/Vue-ToDo-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Vue-ToDo-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Vue-ToDo-App&theme=radical" />
 </a>
 
 <!-- VUEJS-PROJECT-LIST:END -->
@@ -103,14 +103,14 @@
 
 <!-- REACTJS-PROJECT-LIST:START -->
 <a href="https://github.com/MarkLester10/React-Sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=React-Sandbox&theme=radical" />
 </a>
 <br /><br />
 <a href="https://statisticscovid19.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Covid19-Stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Covid19-Stats&theme=radical" />
 </a>
 <a href="https://apppomodoro.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Pomodoro-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Pomodoro-App&theme=radical" />
 </a>
 
 <!-- REACTJS-PROJECT-LIST:END -->
@@ -119,51 +119,51 @@
 
 ### PHP/Laravel Projects<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <a href="https://github.com/MarkLester10/LaraStart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=LaraStart&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=LaraStart&theme=radical" />
 </a>
 <a href="https://trace-covid19.site/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Trace&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Trace&theme=radical" />
 </a>
 
 <br/><br/>
 <a href="https://barefootblog.000webhostapp.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Barefoot&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Barefoot&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/PUP-Event-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=PUP-Event-Management-System&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=PUP-Event-Management-System&theme=radical" />
 </a>
 <br/><br/>
 <!-- LARAVEL-PROJECT-LIST:START -->
 <a href="https://github.com/MarkLester10/phpmvc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=phpmvc&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/php-mvc-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=php-mvc-core&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=php-mvc-core&theme=radical" />
 </a>
 <br/><br/>
 <a href="https://github.com/MarkLester10/TechTips">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TechTips&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=TechTips&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/Laravel-JetStream-User-CRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-JetStream-User-CRUD&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-JetStream-User-CRUD&theme=radical" />
 </a>
 <br/><br/>
 <a href="https://moooviedb.herokuapp.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Movie-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Movie-App&theme=radical" />
 </a>
 <a href="http://laravelposty.herokuapp.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=posty&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=posty&theme=radical" />
 </a>
 <br /><br />
 <a href="https://github.com/MarkLester10/LaraVue-Socialite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=LaraVue-Socialite&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=LaraVue-Socialite&theme=radical" />
 </a>
 <a href="https://github.com/MarkLester10/Blog-Site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Blog-Site&theme=radical" />
 </a>
 <br /><br />
 <a href="https://github.com/MarkLester10/Laravel-Instagram-Like-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-Instagram-Like-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Laravel-Instagram-Like-App&theme=radical" />
 </a>
 
 <!-- LARAVEL-PROJECT-LIST: END -->
@@ -172,39 +172,39 @@
 
 ### 😁 Web Designs and <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Vanilla JavaScript Projects
 <a href="https://github.com/MarkLester10/JavaScript-Sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=JavaScript-Sandbox&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=JavaScript-Sandbox&theme=radical" />
 </a>
 <br /><br />
 <a href="https://mkbhdautofocus.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=MKBHD-Auto-Focus-Site-Landing-Page&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=MKBHD-Auto-Focus-Site-Landing-Page&theme=radical" />
 </a>
 <a href="https://nbaallstar.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=NBA-All-Star-Landing-Page&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=NBA-All-Star-Landing-Page&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/TypeIT/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=TypeIT&theme=radical" />
 </a>
 <a href="https://marklester10.github.io/Weather-App-Vanilla-JavaScript/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Weather-App-Vanilla-JavaScript&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Weather-App-Vanilla-JavaScript&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklesterdarkuidesign.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Login-and-Register-Dark-UI-Design&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Login-and-Register-Dark-UI-Design&theme=radical" />
 </a>
 <a href="https://marklestergamebox.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Game-Box&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Game-Box&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/Github-Finder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Github-Finder&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Github-Finder&theme=radical" />
 </a>
 <a href="https://marklester10.github.io/Leica-Minimal-Landing-Page/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Leica-Minimal-Landing-Page&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Leica-Minimal-Landing-Page&theme=radical" />
 </a>
 <br /><br />
 <a href="https://marklester10.github.io/Masonry-Lightbox/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkLester10&repo=Masonry-Lightbox&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five-sigma-five.vercel.app/api/pin/?username=MarkLester10&repo=Masonry-Lightbox&theme=radical" />
 </a>
 
 ---
@@ -214,10 +214,10 @@
 _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarkLester10&show_icons=true&include_all_commits=true&theme=radical" alt="Mark's github stats" />
 </a>
 <a href="https://github.com/MarkLester10?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarkLester10&layout=compact&theme=radical" />
 </a>
 
 ---
