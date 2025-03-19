@@ -6,11 +6,13 @@
 
 [Mark Lester | Website][website]
 
-## Full-Stack Web Developer!
+## Software Engineer
 
-- 🌱 Hello, I'm an experienced software engineer with a demonstrated history of working in the freelance and IT industry. I created small to medium web applications for personal and professional purposes.
-- 🎯 My long-term goal as a full-stack developer is to advance to the senior level. Currently focused on web development (Laravel, Tailwind CSS, Vue Js) and Mobile Development using React Native
-- ⚡ I enjoy the challenge of software development as well as seeing the results of my efforts. I'm eager to learn new technologies to broaden my knowledge.
+🚀 Hello, I’m an experienced Software Engineer with a strong background in freelance work and the IT industry. I specialize in building small to medium-scale web applications for both personal and professional use, streamlining business processes with well-crafted solutions.
+
+💡 Currently focused on web development (Laravel, Tailwind CSS, Vue.js, Livewire) and Mobile Development using React Native, while also exploring Robotic Process Automation (RPA) with Microsoft Power Automate and Google Apps Script.
+
+🎯 My long-term goal is to advance to a senior full-stack developer role. I thrive on solving complex problems, enjoy the challenge of software development, and take pride in delivering impactful solutions. I’m always eager to learn new technologies to expand my skill set and stay ahead in the ever-evolving tech landscape.
 
 ### Connect with me:
 
