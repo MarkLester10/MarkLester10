@@ -12,7 +12,7 @@
 
 💡 Currently focused on web development (Laravel, Tailwind CSS, Vue.js, Livewire) and Mobile Development using React Native, while also exploring Robotic Process Automation (RPA) with Microsoft Power Automate and Google Apps Script.
 
-🎯 My long-term goal is to advance to a senior full-stack developer role. I thrive on solving complex problems, enjoy the challenge of software development, and take pride in delivering impactful solutions. I’m always eager to learn new technologies to expand my skill set and stay ahead in the ever-evolving tech landscape.
+🎯 I thrive on solving complex problems, enjoy the challenge of software development, and take pride in delivering impactful solutions. I’m always eager to learn new technologies to expand my skill set and stay ahead in the ever-evolving tech landscape.
 
 ### Connect with me:
 
